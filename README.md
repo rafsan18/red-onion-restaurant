@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<span style= "color: Blue;">
+<span style= "color: blue;">
 ## Available Scripts
 </span>
 In the project directory, you can run:
